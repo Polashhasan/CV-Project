@@ -1,0 +1,108 @@
+*{margin:0px;
+  padding:0px;
+}
+
+body{background-color: whitesmoke;
+     font-family:lato;
+     color:white;
+    }
+#container{max-width:1000px;
+           background-color:rgb(170, 57, 81);
+           margin:0 auto;
+           padding:30px;}
+
+ header{}
+ 
+ .personal-image{height:100px;
+                 width:100px;
+                border:2px solid white;
+                border-radius:50%;
+                float:left;
+            }
+
+ .header-name{ float:left;
+     padding:30px;}  
+     
+.contact{float:right;}
+.contact a{text-decoration:none;
+           font-size:22px;
+           color:white;
+        }
+    
+.contact a:hover{text-decoration:underline;
+                 coloe:#5BC9CC;}
+                 
+ .clear-div{clear:both;}    
+ 
+ hr{border:3px solid white;
+    border-bottom:none;
+     margin:20px;
+   }
+
+ #personal-information{} 
+ 
+ .right-content{float:left;
+                width:45%;}
+
+ .left-content{float:left;
+               width:55%;}
+
+ .common-hr{border:1px solid white;
+            border-bottom:none;
+            margin:20px;}
+  /*2nd section*/
+  #work-experience{} 
+  
+  .work-left{float:left;
+             width:30%;}
+
+  .work-right{float:left;
+             width:70%;}
+
+ #skills{}
+ .skills-left{float:left;
+             width:35%;
+             }
+
+ .skills-right{float:left;
+              width:65%;}   
+
+ .left-edu{float:left;
+           width:40%;} 
+ 
+ .left-tem{float:left;
+           width:30%}
+ 
+ .left-tem a{text-decoration:none;
+            color:white;}
+ .left-tem a:hover{text-decoration:underline;
+                    color:blue; }
+
+ 
+ .right-tem{float:right;
+  width:30%}
+
+ .right-tem a{text-decoration:none;
+              color:white;}
+ 
+ .right-tem a:hover{text-decoration:underline;
+                     color:blue;}
+
+ .r8{float:left;
+     width:40%;} 
+ 
+ .l8{float:left;
+     width:60%;}
+
+.footer{background-color:black;
+        color:white;
+        padding:20px;
+         text-align:center;}
+.footer a{text-decoration:none;
+          margin:20px;
+           font-size:20px;
+          color:white;}
+.footer a:hover{text-decoration:underline;}
+
+.footer p{margin-top:20px;} 
+ 
